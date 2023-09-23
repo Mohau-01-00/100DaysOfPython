@@ -7,13 +7,13 @@ Master Python by building 100 projects in 100 days.
 Learning data science, automation, build websites, games and apps!
 
 What you will see below is a log of every project completed. The course is instructed by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/) and can be found on Udemy
+<p style="text-align: center;">Starting from: 23 September,2023</p>
 
-        Starting from: 23 September,2023
 
 ## Contents
 Day 1: Working with Variables in Python to Manage Data.
 
-Project: [Band Name Generator]()
+Project: [Band Name Generator](100DaysOfPython/Day1/)
 
 Day 2:
    
