@@ -4,15 +4,15 @@
 
 <h2 style="text-align:center;"> The Complete Python Pro Bootcamp for 2023</h2>
 <p style="text-align: center;">Starting from: 23 September,2023</p>
-<div class="center">
-Master Python by building 100 projects in 100 days.Learning data science, automation, build websites, games and apps!
+<div style="">
+Master Python by building 100 projects in 100 days.Learning data science, automation, build websites, games and apps! 
 
 What you will see below is a log of every project completed. The course is instructed by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/) and can be found on Udemy
 </div>
 
-<div class="center">
+<div style="width:80% margin:auto;">
 
-<table >
+<table style="width:100%;" >
  <tr >
 <th>Date</th>
 <th>Focus</th>
@@ -52,15 +52,5 @@ table, th, td {
   text-align: center;
 }
 
-table{width:100%
-
-}
-
-.center {
-
-  margin: auto;
-  width: 80%;
-  padding: 10px;
-}
 </style>
 
