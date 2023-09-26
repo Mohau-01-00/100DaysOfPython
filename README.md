@@ -21,12 +21,12 @@ What you will see below is a log of every project completed. The course is instr
 <tr>
 <td>Day 1</td>
 <td>Working with Variables in Python to Manage Data</td>
-<td> Band Name Generator</td>
+<td><a href="Projects/Day1/main.py">Band Name Generator</a></td>
 </tr>
 <tr>
 <td>Day 2</td>
 <td> Understanding Data Types and How to Manipulate Strings</td>
-<td> Tip Calculator</td>
+<td><a href="Projects/Day2/main.py" > Tip Calculator</a></td>
 </tr>
 <tr>
 <td>Day 3</td>
