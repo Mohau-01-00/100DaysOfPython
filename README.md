@@ -1,12 +1,5 @@
 
-<style>
-table, th, td {
-  border:1px solid black;
-  border-collapse: collapse;
-  text-align: center;
-}
 
-</style>
 
 
 <h1 style="text-align:center;"> 100 Days Of Python </h1>
@@ -54,3 +47,10 @@ What you will see below is a log of every project completed. The course is instr
 </div>
 
 
+<style>
+ th,td {
+  border:1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+</style>
