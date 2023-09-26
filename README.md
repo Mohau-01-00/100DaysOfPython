@@ -37,7 +37,10 @@ What you will see below is a log of every project completed. The course is instr
 <td> Randomization and Python Lists</td>
 <td> Rock Paper Scissors</td>
 </tr>
-
+<td>Day 5</td>
+<td> Python Loops</td>
+<td> Password Generator</td>
+</tr>
 </table>
 </div>
 
