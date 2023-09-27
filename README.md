@@ -16,7 +16,7 @@ What you will see below is a log of every project I completed.The course is inst
 
 
 | Date	|   Focus| Project 	|
-|-----	|:--------:|----------|
+|-----	|:--------:|:----------:|
 |Day 1	| Working with Variables in Python to Manage Data| Band Name Generator | 
 |Day 2 	| Understanding Data Types and How to Manipulate Strings  	| Tip Calculator  	|
 | Day 3 	|   Control Flow and Logical Operators	| Treasure Island  |
