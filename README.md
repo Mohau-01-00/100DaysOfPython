@@ -2,7 +2,7 @@
 
 
 
- # 100 Days Of Python
+# 100 Days Of Python
 
 ## The Complete Python Pro Bootcamp for 2023
 Starting from: 23 September,2023
@@ -21,5 +21,7 @@ What you will see below is a log of every project I completed.The course is inst
 |Day 2 	| Understanding Data Types and How to Manipulate Strings  	| Tip Calculator  	|
 | Day 3 	|   Control Flow and Logical Operators	| Treasure Island  |
 | Day 4 	|   Randomization and Python lists	| Rock Paper Scissors |
+| Day 5 	|   Beginner Python Loops	| C Password Generator  |
+| Day 6 	|   Randomization and Python lists	| Escaping the Maize |
 
 
