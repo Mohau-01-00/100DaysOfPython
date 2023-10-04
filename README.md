@@ -21,7 +21,10 @@ What you will see below is a log of every project I completed.The course is inst
 |Day 2 	| Understanding Data Types and How to Manipulate Strings  	| Tip Calculator  	|
 | Day 3 	|   Control Flow and Logical Operators	| Treasure Island  |
 | Day 4 	|   Randomization and Python lists	| Rock Paper Scissors |
-| Day 5 	|   Beginner Python Loops	|  Password Generator  |
-| Day 6 	|   Randomization and Python lists	| Escaping the Maize |
+| Day 5 	|   Python Loops	|  Password Generator  |
+| Day 6 	|   Python Functions and Karel	| Escaping the Maize |
+| Day 7 	|   Hangman	| Hangman |
+| Day 8 	|   Function Parameters	|  Ceasars Cipher  |
+| Day 9 	|   Dictionaries and Nesting	| Secret Auction |
 
 
