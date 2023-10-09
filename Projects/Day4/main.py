@@ -57,6 +57,6 @@ if (player==0 and computer==0) or (player==1 and computer==1) or (player==2 and 
 elif (player==0 and computer==2) or (player==1 and computer == 0) or (player==2 and computer==1):
   print("You win")
 elif player >2 or player<0:
-  print("Invalid coice, you lose")
+  print("Invalid choice, you lose")
 else:
   print("You lose")

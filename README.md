@@ -26,5 +26,9 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 7 	|   Hangman	| Hangman |
 | Day 8 	|   Function Parameters	|  Ceasars Cipher  |
 | Day 9 	|   Dictionaries and Nesting	| Secret Auction |
+| Day 10 	|   Functions with Outputs	| Calculator |
+| Day 11 	|   Capstone Project	| Black Jack |
+| Day 12 	|   Scope	|  Number Guessing  |
+
 
 
