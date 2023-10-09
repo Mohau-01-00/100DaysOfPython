@@ -11,7 +11,7 @@ Master Python by building 100 projects in 100 days.Learning data science, automa
 
 What you will see below is a log of every project I completed.The course is instructed by [Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/) and can be found on Udemy.
 
-# Beginner 
+# Beginner :hatching_chick:
 
 
 
