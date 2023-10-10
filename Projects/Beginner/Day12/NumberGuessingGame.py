@@ -19,9 +19,6 @@ def clue():
 chances={"easy":10,"hard":5}
 
 
-
-
-
 print("Welcome to the number guessing game!")
 
 
