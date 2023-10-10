@@ -2,10 +2,10 @@
 
 
 
-# 100 Days Of Python
+<h1 style="text-align:center"> 100 Days Of Python </h1>
 
-## The Complete Python Pro Bootcamp for 2023
-Starting from: 23 September,2023
+<h2 style="text-align:center"> The Complete Python Pro Bootcamp for 2023</h2>
+<p style="text-align:center">Starting from: 23 September,2023</p>
 
 Master Python by building 100 projects in 100 days.Learning data science, automation, build websites, games and apps! 
 
