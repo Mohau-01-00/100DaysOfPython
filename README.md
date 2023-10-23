@@ -30,6 +30,16 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 11 	|   Capstone Project	| Black Jack |
 | Day 12 	|   Scope	|  Number Guessing  |
 | Day 13 	|   Debugging	|  No Project  |
+| Day 14 	|   	| Higher Lower Game |
+
+
+
+# Intermediate :footprints:
+
+| Date	|   Focus| Project 	|
+|-----	|:--------:|:----------:|
+| Day 15	|   Local Development Enviroment Setup 	|  Coffee Machine |
+| Day 16	|   Object Orientated Programming	|  Coffee Machine OOP  |
 
 
 
