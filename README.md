@@ -40,6 +40,6 @@ What you will see below is a log of every project I completed.The course is inst
 |-----	|:--------:|:----------:|
 | Day 15	|   Local Development Enviroment Setup 	|  Coffee Machine |
 | Day 16	|   Object Orientated Programming	|  Coffee Machine OOP  |
-
+| Day 17	|   The benefits of Object Orientated Programming and the quiz game	|  The Quiz Game |
 
 
