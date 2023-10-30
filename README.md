@@ -41,5 +41,7 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 15	|   Local Development Enviroment Setup 	|  Coffee Machine |
 | Day 16	|   Object Orientated Programming	|  Coffee Machine OOP  |
 | Day 17	|   The Benefits of Object Orientated Programming and Quiz  |  The Quiz Game |
+| Day 18	|   Turtle and the Graphical User Interface- GUI  |  Hurst Painting Project |
+| Day 19	|   Instances, State and Higher Order Functions  |  Turtle Race |
 
 
