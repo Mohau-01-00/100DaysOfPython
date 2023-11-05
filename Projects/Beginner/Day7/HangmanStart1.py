@@ -10,9 +10,19 @@ word_list = ["aardvark", "baboon", "camel"]
 chosen_word=random.choice(word_list)
 print(chosen_word)
 #TODO2
+word_length=len(chosen_word)
+
+#Create blanks
+display = []
+for i in range(word_length):
+    display += "_"
+
+print(display)
 guess=input("Guess a letter ").lower()
 #TODO3
+
 for letter in chosen_word:
+    print(display)
     if letter==guess:
         print("Right")
     else:
