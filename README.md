@@ -43,5 +43,9 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 17	|   The Benefits of Object Orientated Programming and Quiz  |  The Quiz Game |
 | Day 18	|   Turtle and the Graphical User Interface- GUI  |  Hurst Painting Project |
 | Day 19	|   Instances, State and Higher Order Functions  |  Turtle Race |
+| Day 20	|   Build the snake game part 1 : Animation and co-ordinates |  Snake Game |
+| Day 21	|   Build the snake game part 2 : Inheritance and Slicing |  Snake Game |
+| Day 22	|   Build Ping Pong: The Famous Arcade Game |  Ping Pong |
+| Day 23	|   The Turtle Crossing Capstone Project  |  Turtle Crossing |
 
 
