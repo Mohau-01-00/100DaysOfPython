@@ -12,7 +12,7 @@ def random_color():
     color=(r,g,b)
     return color
 
-tim.speed("fastest")
+# tim.speed("fastest")
 
 def draw_spirograph(size_of_gap):
     for _ in range(int(360/size_of_gap)):

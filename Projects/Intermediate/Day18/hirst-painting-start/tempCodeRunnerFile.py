@@ -1,1 +1,0 @@
-tim.setheading(0)

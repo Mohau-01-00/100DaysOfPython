@@ -1,2 +1,0 @@
-
-from turtle import Turtle
