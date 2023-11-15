@@ -47,5 +47,11 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 21	|   Build the snake game part 2 : Inheritance and Slicing |  Snake Game |
 | Day 22	|   Build Ping Pong: The Famous Arcade Game |  Ping Pong |
 | Day 23	|   The Turtle Crossing Capstone Project  |  Turtle Crossing |
+| Day 24	|   Files, Directories and Paths  |  Mail Merge Project |
+| Day 25	|   Working with CSV Data and the Pandas Library |  U.S States Game |
+| Day 26	|   List Comprehension and the NATO Alphabet  |  NATO Alphabet Project |
+| Day 27	|   Tkinter, *args, **kwargs and Creating GUI Programs   | Mile to Km Converter |
+| Day 28	|   Tkinter, Dynamic Typing and the Pomodoro GUI Application  |  Pomodoro|
+
 
 
