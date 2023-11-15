@@ -11,7 +11,7 @@ def find_highest_bidder(bidding_record):
             winner=bidder
     print(f"The winner is {winner} with a bid of R {highest_bid}")
 
-
+#Empty Dictionary
 bids={}
 
 while bidding_finished is False:

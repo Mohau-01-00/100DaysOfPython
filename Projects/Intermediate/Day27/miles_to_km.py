@@ -1,0 +1,51 @@
+from tkinter import *
+
+window=Tk()
+window.title("Mile to Km Converter")
+window.minsize(width=300,height=200)
+window.config(padx=10,pady=10)
+
+
+# my_label["text"]="New Text"
+# my_label.config(text="New Text")
+
+def button_clicked():
+    #calculate 1.609
+
+    print("I got clicked")
+    new_text=float(input.get())
+    answer=new_text*1.609
+    label_c.config(text=answer)
+    print(answer)
+ 
+
+
+
+
+input=Entry(width=20)
+input.grid(column=1,row=0)
+
+
+label_a=Label(text="Miles",font=("Arial",10,"normal"))
+label_a.grid(column=2,row=0)
+
+
+label_b=Label(text="is equal to",font=("Arial",10,"normal"))
+label_b.grid(column=0,row=1)
+
+
+label_b=Label(text="Km",font=("Arial",10,"normal"))
+label_b.grid(column=2,row=1)
+
+
+
+label_c=Label(text="calc",font=("Arial",10,"normal"))
+label_c.grid(column=1,row=1)
+
+
+
+button=Button(text="Calculate",command=button_clicked)
+button.grid(column=1,row=2)
+
+
+window.mainloop()
