@@ -6,8 +6,11 @@ question_bank=[]
 for question in question_data:
     question_text=question['text']
     question_answer=question['answer']
+    #Below is group question_text and question answer from question model class to be able to 
     new_question=Question(question_text,question_answer)
     question_bank.append(new_question)
+
+
 
 quiz=QuizBrain(question_bank)
 

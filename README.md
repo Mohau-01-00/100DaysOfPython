@@ -51,7 +51,7 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 25	|   Working with CSV Data and the Pandas Library |  U.S States Game |
 | Day 26	|   List Comprehension and the NATO Alphabet  |  NATO Alphabet Project |
 | Day 27	|   Tkinter, *args, **kwargs and Creating GUI Programs   | Mile to Km Converter |
-| Day 28	|   Tkinter, Dynamic Typing and the Pomodoro GUI Application  |  Pomodoro|
+| Day 28	|   Dynamic Typing and the Pomodoro GUI Application  |  Pomodoro|
 
 
 
