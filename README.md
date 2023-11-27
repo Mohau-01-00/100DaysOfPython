@@ -56,5 +56,13 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 30	|   Errors, Exceptions and JSON Data  |  Improving the Password |
 | Day 31	|   Capstone Project|  [Flash Card App](100daysOfPython/Projects/Intermediate/Day31/) |
 
+# Intermediate++ :bouncing_ball_person:
 
 
+| Date	|   Focus| Project 	|
+|-----	|:--------:|:----------:|
+| Day 32	|   Send Email and Manage Dates smpt and datetime -module	| Birthday Wisher |
+| Day 33	|   API Endpoints and API Parameters	| ISS Overhead Notifier |
+| Day 34	|   API Practice	| Creating GIU Quizz App |
+| Day 35	|   Keys, Authentication and Enviroment Variables: SMS	| Rain SMS Notifier |
+| Day 36	|   Stock Trading News Alert Project	| Stock SMS Notifier |
