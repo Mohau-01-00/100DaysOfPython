@@ -17,31 +17,15 @@ parameters={
 }
 
 
-try:
-     response = requests.get(url, params=parameters)
-     response.raise_for_status()
-     all_data = response.json()
-     data=all_data["Time Series (Daily)"]
-except KeyError:
-     with open(file="stock.txt") as stock:
-          all_data=stock.read()
 
-          print(all_data)
-        
-       
-
-
-
-data=all_data['Time Series (Daily)']
-
-
-
-
-
-
+response = requests.get(url, params=parameters)
+response.raise_for_status()
+all_data = response.json()
+data=all_data["Time Series (Daily)"]
 
 
 data_list=[value for (key,value) in data.items()]
+
 
 yesterday_data=data_list[0]
 yesterday_closing_price=yesterday_data['4. close']

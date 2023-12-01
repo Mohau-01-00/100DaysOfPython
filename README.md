@@ -54,9 +54,9 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 28	|   Dynamic Typing and the Pomodoro GUI Application  |  Pomodoro|
 | Day 29	|   Build a Password Manager GUI with TKinter |  Password Manager |
 | Day 30	|   Errors, Exceptions and JSON Data  |  Improving the Password |
-| Day 31	|   Capstone Project|  [Flash Card App](100daysOfPython/Projects/Intermediate/Day31/) |
+| Day 31	|   Capstone Project|  [Flash Card App](/Projects/Intermediate/Day31) |
 
-# Intermediate++ :bouncing_ball_person:
+# Intermediate+ :weight_lifting:
 
 
 | Date	|   Focus| Project 	|
