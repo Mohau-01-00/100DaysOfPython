@@ -1,0 +1,19 @@
+from bs4 import BeautifulSoup
+import requests
+import lxml
+
+url="https://www.takealot.com/garmin-forerunner-55-smartwatch-black/PLID72467547"
+
+headers = { "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+           "Accept-Language":"en-US,en;q=0.9",
+           "User-Agent":"Defined",
+           "Cookie":"PHPSESSID=5ce1bc9e395cd88f66b0993c99ed61df; _ga=GA1.2.869982658.1701714290; _gid=GA1.2.245250376.1701714290; _ga_VL41109FEB=GS1.2.1701720916.2.0.1701720916.0.0.0"}
+
+response=requests.get(url=url,headers=headers)
+
+
+webpage=response.text
+
+soup=BeautifulSoup(webpage,"html.parser")
+
+print(soup)

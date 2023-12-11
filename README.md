@@ -66,3 +66,12 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 34	|   API Practice	| Creating GIU Quizz App |
 | Day 35	|   Keys, Authentication and Enviroment Variables: SMS	| Rain SMS Notifier |
 | Day 36	|   Stock Trading News Alert Project	| Stock SMS Notifier |
+| Day 37	|   API POSTS Requests and Headers	| Habbit Tracking App |
+| Day 38	|   Workout Tracking using Google Sheety	| NL Queries|
+| Day 39	|   Flight Deal Finder	| Kiwi Partners API |
+| Day 45	|   Webscraping with Beautiful Soup	| 100 Movies |
+| Day 46	|   Musical Time Machine	| Billboard 100 |
+| Day 54	|   Introduction to Web Development	| Decorator Functions|
+| Day 55	|   HTML URL Parsing in Flask	| Higher Lower Game |
+| Day 56	|   Rendering HTML/Static files and Using Website Templates	| Name Card Website |
+| Day 57	|   Templating with Jinja in Flask Applications	| Templating with API|
