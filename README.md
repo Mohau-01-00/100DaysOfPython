@@ -54,7 +54,7 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 28	|   Dynamic Typing and the Pomodoro GUI Application  |  Pomodoro|
 | Day 29	|   Build a Password Manager GUI with TKinter |  Password Manager |
 | Day 30	|   Errors, Exceptions and JSON Data  |  Improving the Password |
-| Day 31	|   Capstone Project|  [Flash Card App](/Projects/Intermediate/Day31) |
+| Day 31	|   Capstone Project|  Flash Card App |
 
 # Intermediate+ :weight_lifting:
 
@@ -75,3 +75,14 @@ What you will see below is a log of every project I completed.The course is inst
 | Day 55	|   HTML URL Parsing in Flask	| Higher Lower Game |
 | Day 56	|   Rendering HTML/Static files and Using Website Templates	| Name Card Website |
 | Day 57	|   Templating with Jinja in Flask Applications	| Templating with API|
+
+
+# Advanced :rocket:
+| Date	|   Focus| Project 	|
+|-----	|:--------:|:----------:|
+| Day 59	|   Blog Capstone Project 	| Adding Styling|
+| Day 60	|   Make POST request with Flask and HTML Forms 	| Advanced Contact Form|
+| Day 61	|  Building Advanced Forms with Flask-WTForms	| |
+| Day 62	|   Flask, WTForms,Bootstrap and CSV	| Coffee and WIFI Project|
+| Day 63	|   Advanced databases with SQLite and SQLAlchemy CRUD 	| Virtual Bookshelf|
+| Day 64	|   Combination of  Databases and API  	| The Movie Project|
