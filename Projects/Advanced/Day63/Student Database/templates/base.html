@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock %} - FlaskApp</title>
+    {% block styles %}
+   
+    
+    {{ bootstrap.load_css() }}
+
+   
+
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}">
+
+    {% endblock %}
+
+
+</head>
+<body>
+    <nav>
+        <a href="{{ url_for('index') }}">FlaskApp</a>
+        <a href="#">About</a>
+        <a href="{{url_for('add_student')}}">Create</a>
+    </nav>
+    <hr>
+    <div class="content">
+        {% block content %} {% endblock %}
+    </div>
+</body>
+</html>

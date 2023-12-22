@@ -1,0 +1,12 @@
+
+import requests
+
+url=" https://api.npoint.io/a7f04aaddfeff4e1a1b2"
+
+posts=requests.get(url).json()
+
+print(posts)
+
+for post in posts:
+    post_id=post['id']
+    print(post_id)

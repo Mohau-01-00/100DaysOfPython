@@ -1,0 +1,39 @@
+
+from dotenv import load_dotenv
+load_dotenv()
+import os
+import requests
+
+
+url='https://api.themoviedb.org/3/search/movie?language=en-US'
+
+headers={
+    "accept": "application/json",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjNWQ1ZDc3YmQ5NGEzN2Q2Y2ZjMjUwZTJhZjA3MDkzNSIsInN1YiI6IjY1ODJmOWUyNTViYzM1NTY0ZTE3ZGI4NCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.oTM1vhmGGb9kwVquaR7wpwNfkBO6o841aXv5cREMeoM"
+
+}
+movie=input("Enter a movie:")
+params={
+    "include_adult":False,
+ 
+     "query":movie,
+
+
+}
+
+API_KEY="APIKEY"
+data= requests.get(url, params=params, headers=headers).json()
+
+all_movies=data['results']
+print(all_movies)
+
+
+for movie in all_movies:
+    title=movie['title']
+    year=movie["release_date"].split("-")[0]
+   
+    description=movie["overview"]
+    img_url=movie["backdrop_path"]
+
+
+    print(title,year)

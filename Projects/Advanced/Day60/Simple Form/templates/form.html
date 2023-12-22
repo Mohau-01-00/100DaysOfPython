@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+
+
+<head>
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="Content-Type" content="text/html;
+  charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mohau Form</title>
+
+
+   <!-- Style sheet -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+  <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+
+
+
+
+
+
+</head>
+
+<body>
+
+    <div class="col-md-12 text-center ">
+        <h2>Contact Form</h2>
+    </div>
+      <form id="form"class="form col-md-6" action="{{url_for('recieve_data')}}"  method="post" >
+        <div  class="form container-fluid col-md-8 pt-4 bg-light text-dark"></div>
+    
+    
+        <div class="form-row">
+          <div class="col">
+            <div class="form-group">
+             
+                <input type="text" name="firstname" class="form-control" id="nameB" placeholder="First name">
+       
+              </div>
+            </div>
+            <div class="col">
+            <div class="form-group">
+             
+                <input type="text" name="password" class="form-control" id="lastnameB" placeholder="Password">
+       
+              </div>
+            </div>
+          
+          <div class="form-row text-center">
+            <div class="col-12">
+              <button type="submit" id="submit" name="submit" class="btn btn-outline-secondary">Submit</button>
+            </div>
+          </div>
+        </form>
+
+</body>
+
+</html>

@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1 class="title">{% block title %} Students {% endblock %}</h1>
+    <div class="content">
+        {% for student in students %}
+            <div class="student">
+                <p><b>#{{ student.id }}</b></p>
+                <b>
+                    <a href="{{url_for('student',student_id=student.id)}}">
+                    <p class="name">{{ student.firstname }} {{ student.lastname }}</p>
+                </a>
+                </b>
+                <p>{{ student.email }}</p>
+                <p>{{ student.age }} years old.</p>
+                <p>Joined: {{ student.created }}</p>
+                <a href="{{ url_for('edit', student_id=student.id) }}">Edit</a>
+                <a href="{{ url_for('delete', student_id=student.id) }}">Delete</a>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
